@@ -67,4 +67,8 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felipefreitasffs&layout=compact&theme=dracula" alt="felipefreitasffs" />
 </div>
 
-![Snake animation](https://github.com/felipefreitasffs/felipefreitasffs/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  
+  ![Snake animation](https://github.com/felipefreitasffs/felipefreitasffs/blob/output/github-contribution-grid-snake.svg)
+
+</div>
