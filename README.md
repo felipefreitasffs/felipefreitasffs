@@ -65,5 +65,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipefreitasffs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipefreitasffs&layout=compact&theme=dracula" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felipefreitasffs&layout=compact&theme=dracula" alt="felipefreitasffs" />
-  ![Snake animation](https://github.com/felipefreitasffs/felipefreitasffs/blob/output/github-contribution-grid-snake.svg)
 </div>
+
+![Snake animation](https://github.com/felipefreitasffs/felipefreitasffs/blob/output/github-contribution-grid-snake.svg)
