@@ -4,7 +4,6 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/felipefreitasffs/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/></a>
-  <a href="https://twitter.com/felipefreitasfs" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter Profile"/></a>
   <img src="https://komarev.com/ghpvc/?username=felipefreitasffs&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
