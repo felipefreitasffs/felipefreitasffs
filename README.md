@@ -1,3 +1,5 @@
+![](/img/banner.png)
+
 # Hi 👋, I'm Felipe Freitas
 
 <p align="left">
