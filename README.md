@@ -70,5 +70,7 @@
 ### 📊 GitHub Stats:
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipefreitasffs&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipefreitasffs&theme=react&show_icons=true&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=felipefreitasffs&theme=react&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipefreitasffs&theme=react&show_icons=true&hide_border=true&layout=compact"/>
 </div>
