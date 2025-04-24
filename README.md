@@ -1,4 +1,4 @@
-![](/img/banner.png)
+<img src="/img/banner.png" alt="drawing" width="1400" heigth="300"/>
 
 # Hi 👋, I'm Felipe Freitas
 
@@ -21,8 +21,6 @@
 ---
 
 ### 🚀 Technologies & Tools:
-
-*(Using flat style badges for a more discreet look)*
 
 **💻 Languages & Frameworks:**
 
