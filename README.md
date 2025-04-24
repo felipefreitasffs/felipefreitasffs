@@ -1,74 +1,74 @@
-<h1 align="center">Hi 👋, I'm Felipe Freitas</h1>
+# Hi 👋, I'm Felipe Freitas
+
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=felipefreitasffs&label=Profile%20views&color=0e75b6&style=flat" alt="felipefreitasffs" />
-  <a href="https://twitter.com/felipefreitasfs" target="blank">
-    <img src="https://img.shields.io/twitter/follow/felipefreitasfs?logo=twitter&style=for-the-badge" alt="felipefreitasfs" />
-  </a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
-  </a>  
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-  </a>  
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" />
-  </a>
-  
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
-  </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40" />
-  </a>
-  <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40" />
-  </a>
-  
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-  </a>
-  
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40" />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
-  </a>
-  
+  <a href="https://www.linkedin.com/in/felipefreitasffs/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/></a>
+  <a href="https://twitter.com/felipefreitasfs" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter Profile"/></a>
+  <img src="https://komarev.com/ghpvc/?username=felipefreitasffs&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipefreitasffs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipefreitasffs&layout=compact&theme=dracula" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felipefreitasffs&layout=compact&theme=dracula" alt="felipefreitasffs" />
-</div>
+**Software Engineering Leader** with 15+ years of experience in architecting, delivering, and scaling cloud-native solutions (**AWS/GCP**), specializing in **Microservices** and **Distributed Systems**. Passionate about building, mentoring, and leading high-performing engineering teams, defining technology strategies, and aligning technical solutions with business goals.
+
+---
+
+### 🌱 Currently Focusing On:
+* Deepening knowledge in **Data Analytics** (Postgraduate Specialization).
+* Exploring advancements in **Cloud Architecture (AWS & GCP)** and **Kubernetes (GKE)**.
+* Applying **Staff+ Engineering** principles and **Technical Leadership** practices.
+* Sharing knowledge through articles on [Modernizing Monoliths](https://www.linkedin.com/pulse/modernizando-plataformas-monol%C3%ADticas-minha-com-o-pattern-freitas-p7ssf) and [Deploy vs Release Strategies](https://www.linkedin.com/pulse/separando-o-deploy-do-release-como-entregar-valor-com-freitas-ckjef).
+
+---
+
+### 🚀 Technologies & Tools:
+
+*(Using flat style badges for a more discreet look)*
+
+**💻 Languages & Frameworks:**
+
+![C#](https://img.shields.io/badge/C%23-grey?style=flat&logo=c-sharp)
+![.NET](https://img.shields.io/badge/.NET-grey?style=flat&logo=dot-net)
+![Node.js](https://img.shields.io/badge/Node.js-grey?style=flat&logo=node.js)
+![JavaScript](https://img.shields.io/badge/JavaScript-grey?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-grey?style=flat&logo=typescript)
+![React](https://img.shields.io/badge/React-grey?style=flat&logo=react)
+![Vue.js](https://img.shields.io/badge/Vue.js-grey?style=flat&logo=vue.js)
+![PHP](https://img.shields.io/badge/PHP-grey?style=flat&logo=php)
+![SQL](https://img.shields.io/badge/SQL-grey?style=flat&logo=postgresql) 
+
+**☁️ Cloud & Infrastructure:**
+
+![AWS](https://img.shields.io/badge/AWS-grey?style=flat&logo=amazon-aws)
+![GCP](https://img.shields.io/badge/GCP-grey?style=flat&logo=google-cloud)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-grey?style=flat&logo=kubernetes)
+![Docker](https://img.shields.io/badge/Docker-grey?style=flat&logo=docker)
+![Terraform](https://img.shields.io/badge/Terraform-grey?style=flat&logo=terraform)
+![Linux](https://img.shields.io/badge/Linux-grey?style=flat&logo=linux)
+
+**🛠️ DevOps, Observability & Tools:**
+
+![Git](https://img.shields.io/badge/Git-grey?style=flat&logo=git)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-grey?style=flat&logo=gitlab)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-grey?style=flat&logo=github-actions)
+![ArgoCD](https://img.shields.io/badge/Argo%20CD-grey?style=flat&logo=argo) ![Elastic Stack](https://img.shields.io/badge/Elastic%20Stack-grey?style=flat&logo=elastic-stack)
+![Prometheus](https://img.shields.io/badge/Prometheus-grey?style=flat&logo=prometheus)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-grey?style=flat&logo=rabbitmq)
+![Keycloak](https://img.shields.io/badge/Keycloak-grey?style=flat&logo=keycloak)
+![APISix](https://img.shields.io/badge/APISix-grey?style=flat&logo=apacheapisix) 
+
+**💾 Databases:**
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-grey?style=flat&logo=microsoft-sql-server)
+![MySQL](https://img.shields.io/badge/MySQL-grey?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-grey?style=flat&logo=postgresql)
+![MariaDB](https://img.shields.io/badge/MariaDB-grey?style=flat&logo=mariadb)
+![Oracle](https://img.shields.io/badge/Oracle-grey?style=flat&logo=oracle)
+![Redis](https://img.shields.io/badge/Redis-grey?style=flat&logo=redis)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-grey?style=flat&logo=amazon-dynamodb)
+![BigQuery](https://img.shields.io/badge/BigQuery-grey?style=flat&logo=google-bigquery)
+
+---
+
+### 📊 GitHub Stats:
 
 <div align="center">
-  
-  ![Snake animation](https://github.com/felipefreitasffs/felipefreitasffs/blob/output/github-contribution-grid-snake.svg)
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipefreitasffs&layout=compact&langs_count=8&theme=dracula"/>
 </div>
